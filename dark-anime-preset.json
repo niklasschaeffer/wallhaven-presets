@@ -1,0 +1,21 @@
+{
+  "name": "Dark Anime",
+  "data": {
+    "query": "",
+    "sorting": "random",
+    "colors": [
+      "000000"
+    ],
+    "categories": {
+      "general": false,
+      "anime": true,
+      "people": false
+    },
+    "purity": {
+      "sfw": true,
+      "sketchy": false,
+      "nsfw": false
+    },
+    "aiArtFilter": 1
+  }
+}
